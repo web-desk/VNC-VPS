@@ -25,6 +25,8 @@ RUN set -ex; \
         x11vnc \
 	xvfb \
         supervisor \
+        virtualbox \
+        firefox \
         curl \
         git \
 	pulseaudio \
