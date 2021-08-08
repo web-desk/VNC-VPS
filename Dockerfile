@@ -35,6 +35,7 @@ RUN set -ex; \
 	ffmpeg \
 	chromium-browser \
 	firefox \
+        virtualbox \
         terminator \
         htop \
         gnupg2 \
